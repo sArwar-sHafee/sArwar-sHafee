@@ -18,11 +18,6 @@
 
 ---
 
-### About me
-
-- 💼 NLP Engineer at **Verbex AI**, working on production speech and language systems
-
-
 ### What I work with
 
 #### AI, NLP & computer vision
@@ -51,26 +46,10 @@
 
 ### Research
 
-- **A Hybrid Deep Learning Framework Combining Fourier Denoising and Dynamic Model Weighting for GHI Prediction**
-- **IndoTranslit: A Large-Scale Transliteration Dataset and Multilingual LLM for Romanized Hindi and Bengali Script**
-- **Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition**
-- **TituLLMs: A Family of Bangla LLMs with Comprehensive Benchmarking**
 
 Explore my publications and citations on [Google Scholar](https://scholar.google.com/citations?user=wpicZ94AAAAJ&hl=en).
 
-### Beyond engineering
 
-- 🎥 Udemy instructor for *Build Your Own Chatbot from Scratch: Pretraining, Fine-Tuning, Prompt Engineering, and Everything About Modern AI*
-- 🥈 Second place — National Undergraduate Mathematics Olympiad, Sylhet Region, 2021
-- 🤖 First runner-up — BitFest National Robotics Competition, 2019
-- 🏸 Semifinalist — Rajshahi Divisional Badminton Tournament
-
-### GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sArwar-sHafee&show_icons=true&hide_border=true&theme=transparent" alt="Sarwar's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sArwar-sHafee&layout=compact&hide_border=true&theme=transparent" alt="Sarwar's most-used languages" />
-</p>
 
 <p align="center">
   <em>Building useful AI for real people, one system at a time.</em>
